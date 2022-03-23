@@ -13,7 +13,7 @@ Below is the display for the shortest bike checkout times of zero, one, or two m
 
 <br>
 This heatmap shows the trips over a week which hours are the most popular or used. During the week, mostly the communte times and during the weekend it is afternoons are the most common times as it displays in darker intensity.
-<br>
+
 ![heatmapusertripsweekday.png](images/heatmapusertripsweekday.png)
 
 <br>
