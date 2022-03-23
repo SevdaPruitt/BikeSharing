@@ -5,7 +5,13 @@ On this project, I am helping out Kate on her business proposal regarding to a p
 
 ![dataframe.png](images/dataframe.png)
 
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+Results:
+
+![checkouttimesforusers.png](images/checkouttimesforusers.png)
+
+![heatmapusertripsweekday.png](images/heatmapusertripsweekday.png)
+
+![usertripsbygenderweekday.png](images/usertripsbygenderweekday.png)
 
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
