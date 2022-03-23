@@ -24,13 +24,11 @@ The heatmap below is grouped by user type; customer and subscriber over user tri
 
 
 Summary: 
-<br>
-
-![BirthYearGenderFocus.png] (images/BirthYearGenderFocus.png)
-
 
 <br>
 
 ![checkouttimesusers.png](images/checkouttimesusers.png)
 
 <br>
+
+![BirthYearGenderFocus.png] (images/BirthYearGenderFocus.png)
