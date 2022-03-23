@@ -6,7 +6,8 @@ On this project, I am helping out Kate on her business proposal regarding to a p
 ![dataframe.png](images/dataframe.png)
 
 # Results:
-# # Below is the display for the shortest bike checkout times of zero, one, or two minutes, less than a minute has the highest peak.
+
+Below is the display for the shortest bike checkout times of zero, one, or two minutes, less than a minute has the highest peak.
 
 ![checkouttimesforusers.png](images/checkouttimesforusers.png)
 
