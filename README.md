@@ -8,18 +8,17 @@ On this project, I am helping out Kate on her business proposal regarding to a p
 # Results:
 
 Below is the display for the shortest bike checkout times of zero, one, or two minutes, less than a minute has the highest peak.
-
+<br>
 ![checkouttimesforusers.png](images/checkouttimesforusers.png)
 
-
-
+<br>
 This heatmap shows the trips over a week which hours are the most popular or used. During the week, mostly the communte times and during the weekend it is afternoons are the most common times as it displays in darker intensity.
-
+<br>
 ![heatmapusertripsweekday.png](images/heatmapusertripsweekday.png)
 
-
-
-
+<br>
+The heatmap below is grouped by user type; customer and subscriber over user trips by gender throughout the week timeline.
+<br>
 
 ![usertripsbygenderweekday.png](images/usertripsbygenderweekday.png)
 
