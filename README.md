@@ -6,7 +6,7 @@ On this project, I am helping out Kate on her business proposal regarding to a p
 ![dataframe.png](images/dataframe.png)
 
 # Results:
-<a href="https://public.tableau.com/app/profile/sevda.pruitt/viz/CompleteVisualsoftheChallenge/BikeShareProjectVisuals">Tableau Portfolio Link<a/>
+<a href="https://public.tableau.com/app/profile/sevda.pruitt/viz/CompleteVisualsoftheChallenge/BikeShareProjectVisuals" target="blank">Tableau Portfolio Link<a/>
 
 Below is the display for the shortest bike checkout times of zero, one, or two minutes, less than a minute has the highest peak.
 <br>
