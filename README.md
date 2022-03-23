@@ -28,9 +28,6 @@ Summary:
 
 ![BirthYearGenderFocus.png] (images/BirthYearGenderFocus.png)
 
-<br>
-
-![checkouttimesforusers.png](images/checkouttimesforusers.png)
 
 <br>
 
