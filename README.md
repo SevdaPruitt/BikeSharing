@@ -23,4 +23,17 @@ The heatmap below is grouped by user type; customer and subscriber over user tri
 ![usertripsbygenderweekday.png](images/usertripsbygenderweekday.png)
 
 
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+Summary: 
+<br>
+
+![BirthYearGenderFocus.png] (images/BirthYearGenderFocus.png)
+
+<br>
+
+![checkouttimesforusers.png](images/checkouttimesforusers.png)
+
+<br>
+
+![checkouttimesusers.png](images/checkouttimesusers.png)
+
+<br>
