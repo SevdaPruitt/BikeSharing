@@ -31,4 +31,4 @@ Summary:
 
 <br>
 
-![BirthYearGenderFocus.png] (images/BirthYearGenderFocus.png)
+![BirthYearGenderFocus.png](images/BirthYearGenderFocus.png)
