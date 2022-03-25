@@ -25,6 +25,7 @@ The heatmap below is grouped by user type; customer and subscriber over user tri
 
 
 Summary: 
+Below the data is grouped by all gender all ages in regard to number of bike checkouts.
 <br>
 ![AllGendersAgeDistribution.png](images/AllGendersAgeDistribution.png)
 <br>
