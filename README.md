@@ -25,19 +25,12 @@ The heatmap below is grouped by user type; customer and subscriber over user tri
 
 
 Summary: 
-
-Below graph is showing all bike data in relation to all gender age group.
-
 <br>
 ![AllGendersAgeDistribution.png](images/AllGendersAgeDistribution.png)
-
 <br>
 Below is a visual to show all gender types checkout times for users.
 <br>
-
 ![checkouttimesusers.png](images/checkouttimesusers.png)
-
 <br>
 This visual below showing data by gender and birth year.
-<br>
-![BirthYearGenderFocus.png](images/BirthYearGenderFocus.png)
+
