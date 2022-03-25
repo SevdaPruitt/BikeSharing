@@ -24,7 +24,10 @@ The heatmap below is grouped by user type; customer and subscriber over user tri
 ![usertripsbygenderweekday.png](images/usertripsbygenderweekday.png)
 
 
-Summary: add text here
+Summary: 
+
+Below graph is showing all bike data in relation to all gender age group.
+
 <br>
 ![AllGendersAgeDistribution.png](images/AllGendersAgeDistribution.png)
 
